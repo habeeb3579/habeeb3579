@@ -21,7 +21,6 @@ Here are some ideas to get you started:
       🎓 I am currently pursuing my **PhD Degree in Data Science** with a focus on **Chemometrics, LLM, and Data Engineering**.<br>
       🌱 I am currently learning **Python, Terraform,** and also interested in **Data Science and Data Engineering**.<br>
       🎯 My goal is to leverage my expertise in **Chemometrics and Data Engineering** to contribute to impactful projects in the field.<br>
-      ✨ I enjoy creating various types of **content**, including articles, tutorials, and videos.
     </td>
   </tr>
 </table>
