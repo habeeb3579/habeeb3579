@@ -26,6 +26,16 @@ Here are some ideas to get you started:
 </table>
 
 ## Technologies
+### Technologies
+
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+[![MLflow](https://img.shields.io/badge/-MLflow-FF6600?style=flat&logo=mlflow&logoColor=white)](https://mlflow.org/)
+[![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Apache Spark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
 
 ## Stats📈
