@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <tr>
     <td valign="center">
       🎓 I am currently pursuing my **PhD Degree in Data Science** with a focus on **Chemometrics, LLM, and Data Engineering**.<br>
-      🌱 I am currently learning **Python, Terraform,** and also interested in **Data Science and Data Engineering**.<br>
+      🌱 I am currently learning <b>Python</b> and also interested in **Data Science and Data Engineering**.<br>
       🎯 My goal is to leverage my expertise in **Chemometrics and Data Engineering** to contribute to impactful projects in the field.<br>
     </td>
   </tr>
