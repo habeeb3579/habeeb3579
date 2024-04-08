@@ -18,12 +18,14 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td valign="center">
-      🎓 I am currently pursuing my **PhD Degree in Data Science** with a focus on **Chemometrics, LLM, and Data Engineering**.<br>
-      🌱 I am currently learning <b>Python</b> and also interested in **Data Science and Data Engineering**.<br>
-      🎯 My goal is to leverage my expertise in **Chemometrics and Data Engineering** to contribute to impactful projects in the field.<br>
+      🎓 I am currently pursuing my <b>PhD Degree in Data Science</b> with a focus on <b>Chemometrics</b>.<br>
+      🌱 I am currently learning <b>Python</b> and also interested in <b>Data Engineering using Terraform, GCP, AWS, Mage, and Spark</b>.<br>
+      🎯 My goal is to leverage my expertise in <b>Chemometrics and Data Engineering</b> to contribute to impactful projects in the field.<br>
     </td>
   </tr>
 </table>
+## Technologies
+
 
 ## Stats📈
 <p align="center">
