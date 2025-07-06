@@ -15,19 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table>
-  <tr>
-    <td valign="center">
-      🎓 I'm a PhD candidate in Data Science, with research focused on <b>Chemometrics</b>—applying machine learning and statistical methods to chemical and spectroscopic data.<br><br>
+🎓 I'm a PhD candidate in **Data Science**, with a research focus on **Chemometrics** — applying machine learning and statistical tools to chemical and spectroscopic data.
 
-      ⚙️ Alongside my research, I'm building skills and projects around <b>end-to-end MLOps</b> and <b>Data Engineering</b>—using tools like <b>Python, Terraform, AWS, GCP, Mage, and Spark</b>.<br><br>
+⚙️ Outside of research, I’m developing skills and projects around **end-to-end MLOps** and **Data Engineering**, working with tools like **Python, Terraform, AWS, GCP, Mage**, and **Spark**.
 
-      🛠 I'm especially interested in making real-world systems that go beyond experimentation—automated, reproducible, and production-ready workflows for ML and data pipelines.<br><br>
+🛠 I'm particularly interested in building real-world systems that go beyond experimentation — focusing on reproducibility, automation, and production-grade ML/data pipelines.
 
-      🧪 My goal is to bring together my domain experience in chemometrics with modern data infrastructure to solve practical, impactful problems.
-    </td>
-  </tr>
-</table>
+🧪 My goal is to combine my background in chemometrics with modern data infrastructure to solve practical and impactful problems.
 
 
 # Technologies
