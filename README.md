@@ -18,12 +18,17 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td valign="center">
-      🎓 I am currently pursuing my <b>PhD Degree in Data Science</b> with a focus on <b>Chemometrics</b>.<br>
-      🌱 I am currently learning <b>Python</b> and also interested in <b>Data Engineering using Terraform, GCP, AWS, Mage, and Spark</b>.<br>
-      🎯 My goal is to leverage my expertise in <b>Chemometrics and Data Engineering</b> to contribute to impactful projects in the field.<br>
+      🎓 I'm a PhD candidate in Data Science, with research focused on <b>Chemometrics</b>—applying machine learning and statistical methods to chemical and spectroscopic data.<br><br>
+
+      ⚙️ Alongside my research, I'm building skills and projects around <b>end-to-end MLOps</b> and <b>Data Engineering</b>—using tools like <b>Python, Terraform, AWS, GCP, Mage, and Spark</b>.<br><br>
+
+      🛠 I'm especially interested in making real-world systems that go beyond experimentation—automated, reproducible, and production-ready workflows for ML and data pipelines.<br><br>
+
+      🧪 My goal is to bring together my domain experience in chemometrics with modern data infrastructure to solve practical, impactful problems.
     </td>
   </tr>
 </table>
+
 
 # Technologies
 
