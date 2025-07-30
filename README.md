@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 I'm a PhD candidate in **Data Science**, with a research focus on **Chemometrics** — applying machine learning and statistical tools to chemical and spectroscopic data.
+🎓 I'm a PhD candidate in **Data Science**, with a research focus on **Chemometrics**, applying machine learning and statistical tools to chemical and spectroscopic data.
 
 ⚙️ Outside of research, I’m developing skills and projects around **end-to-end MLOps** and **Data Engineering**, working with tools like **Python, Terraform, AWS, GCP, Mage**, and **Spark**.
 
-🛠 I'm particularly interested in building real-world systems that go beyond experimentation — focusing on reproducibility, automation, and production-grade ML/data pipelines.
+🛠 I'm particularly interested in building real-world systems that go beyond experimentation, focusing on reproducibility, automation, and production-grade ML/data pipelines.
 
 🧪 My goal is to combine my background in chemometrics with modern data infrastructure to solve practical and impactful problems.
 
